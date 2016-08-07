@@ -2,6 +2,7 @@
 The following sets forth attribution notices for third party software that may be contained in portions of the Habit iOS application. We thank the open source community for all of their contributions.
 
 [Charts](https://github.com/danielgindi/Charts)
+
 	Copyright 2016 Daniel Cohen Gindi & Philipp Jahoda
 
 	Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
@@ -10,6 +11,7 @@ The following sets forth attribution notices for third party software that may b
 	Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)
+
 	Copyright (c) 2016 JayT <patchthecode@gmail.com>
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -31,6 +33,7 @@ The following sets forth attribution notices for third party software that may b
 	THE SOFTWARE.
 
 [MZTimerLabel](https://github.com/mineschan/MZTimerLabel)
+
 	The MIT License (MIT)
 
 	Copyright (c) 2013 mineschan
@@ -53,6 +56,7 @@ The following sets forth attribution notices for third party software that may b
 	CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [SDWebImage](https://github.com/rs/SDWebImage)
+
 	Copyright (c) 2016 Olivier Poitrey rs@dailymotion.com
 	 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
